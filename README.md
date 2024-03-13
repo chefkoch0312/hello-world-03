@@ -1,6 +1,10 @@
 ## Hello-World-03
 
 nur ein kleines Experiment mit next.js. Ein Nachbau des ApiList-Beispiels.
+
+###
+
+Einfach mit "git clone https://github.com/chefkoch0312/hello-world-03.git" runterladen, dann mit "cd hello-world-03" ins Projekt-Verzeichnis wechseln und erst einmal mit "npm install" alle Abhängigkeiten nachinstallieren, dann mit "npm run dev" starten.
 <hr />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
